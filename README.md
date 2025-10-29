@@ -1,6 +1,15 @@
 # Trabajo-INGENIERIA-DE-SOLUCIONES-CON-INTELIGENCIA-ARTIFICIAL-Caso-ReparaYa-
+
+👥 Autores
+Vicente Sanchez
+Felipe Caceres
+
+📅 Duoc UC – Ingeniería de Soluciones con IA (EP2_ISY0101)
+📍 Octubre 2025
+
 🤖 ReparaYA – Asistente Inteligente para Taller Mecánico
-📋 Descripción General
+
+📋 Descripción General:
 
 ReparaYA es un asistente inteligente basado en Inteligencia Artificial (IA) diseñado para mejorar la atención al cliente en talleres mecánicos.
 Permite consultar historiales de mantenimiento, tarifas de servicios y disponibilidad, utilizando un modelo GPT-4o integrado mediante la API de OpenAI.
@@ -87,10 +96,5 @@ IE7	Documentación y diagrama en GitHub	✅
 IE8	Justificación de componentes técnicos	✅
 IE9	Informe técnico completo	✅
 IE10	Lenguaje técnico y coherencia	✅
-👥 Autores
-Vicente Sanchez
 
-Felipe Caceres
 
-📅 Duoc UC – Ingeniería de Soluciones con IA (EP2_ISY0101)
-📍 Octubre 2025
