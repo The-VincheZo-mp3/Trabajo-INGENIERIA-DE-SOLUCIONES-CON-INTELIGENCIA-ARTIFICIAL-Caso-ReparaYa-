@@ -14,7 +14,7 @@ Felipe Caceres
 ReparaYA es un asistente inteligente basado en Inteligencia Artificial (IA) diseñado para mejorar la atención al cliente en talleres mecánicos.
 Permite consultar historiales de mantenimiento, tarifas de servicios y disponibilidad, utilizando un modelo GPT-4o integrado mediante la API de OpenAI.
 
-El proyecto fue desarrollado como parte de la Evaluación Parcial N°1 del ramo Ingeniería de Soluciones con IA (Duoc UC), cumpliendo con los indicadores IE1-IE10 de la rúbrica oficial.
+El proyecto fue desarrollado como parte de la Evaluación Parcial N°1,2 y 3 del ramo Ingeniería de Soluciones con IA (Duoc UC), cumpliendo con los indicadores IE1-IE10 de la rúbrica oficial.
 
 🧠 Objetivos del Proyecto
 
