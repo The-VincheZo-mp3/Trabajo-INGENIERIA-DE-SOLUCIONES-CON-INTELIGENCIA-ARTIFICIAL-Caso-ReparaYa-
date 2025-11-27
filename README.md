@@ -5,7 +5,7 @@ Vicente Sanchez
 Felipe Caceres
 
 📅 Duoc UC – Ingeniería de Soluciones con IA (EP2_ISY0101)
-📍 Octubre 2025
+📍 Noviembre 2025
 
 🤖 ReparaYA – Asistente Inteligente para Taller Mecánico
 
